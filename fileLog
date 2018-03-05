@@ -1,0 +1,30 @@
+2017-06-08 10:05:32 [main]-[INFO] Using Chrome
+2017-06-08 10:05:32 [main]-[INFO] Started BrowserEmulator
+2017-06-08 10:05:37 [main]-[INFO] Pause 5000 ms
+2017-06-08 10:05:40 [main]-[INFO] Opened url https://www.baidu.com/
+2017-06-08 10:05:45 [main]-[INFO] Pause 5000 ms
+2017-06-08 10:05:50 [main]-[INFO] Pause 5000 ms
+2017-06-08 10:05:50 [main]-[INFO] Found element //input[@name='wd']
+2017-06-08 10:05:50 [main]-[INFO] Found desired element //input[@name='wd']
+2017-06-08 10:05:50 [main]-[INFO] Type 刘钰山 at //input[@name='wd']
+2017-06-08 10:05:55 [main]-[INFO] Pause 5000 ms
+2017-06-08 10:05:55 [main]-[INFO] Found element //input[@class='bg s_btn']
+2017-06-08 10:05:55 [main]-[INFO] Found desired element //input[@class='bg s_btn']
+2017-06-08 10:05:55 [main]-[INFO] Clicked //input[@class='bg s_btn']
+2017-06-08 10:06:00 [main]-[INFO] Pause 5000 ms
+2017-06-08 10:06:01 [main]-[INFO] Quitted BrowserEmulator
+2017-06-08 10:30:51 [main]-[INFO] Using Chrome
+2017-06-08 10:30:51 [main]-[INFO] Started BrowserEmulator
+2017-06-08 10:30:56 [main]-[INFO] Pause 5000 ms
+2017-06-08 10:30:57 [main]-[INFO] Opened url https://www.baidu.com/
+2017-06-08 10:30:57 [main]-[INFO] Pause 500 ms
+2017-06-08 10:31:02 [main]-[INFO] Pause 5000 ms
+2017-06-08 10:31:03 [main]-[INFO] Found element //input[@name='wd']
+2017-06-08 10:31:03 [main]-[INFO] Found desired element //input[@name='wd']
+2017-06-08 10:31:03 [main]-[INFO] Type 刘钰山 at //input[@name='wd']
+2017-06-08 10:31:08 [main]-[INFO] Pause 5000 ms
+2017-06-08 10:31:08 [main]-[INFO] Found element //input[@class='bg s_btn']
+2017-06-08 10:31:08 [main]-[INFO] Found desired element //input[@class='bg s_btn']
+2017-06-08 10:31:08 [main]-[INFO] Clicked //input[@class='bg s_btn']
+2017-06-08 10:31:13 [main]-[INFO] Pause 5000 ms
+2017-06-08 10:31:14 [main]-[INFO] Quitted BrowserEmulator

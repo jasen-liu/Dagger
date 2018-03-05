@@ -1,0 +1,286 @@
+2017-05-31 11:14:00 [main]-[INFO] Using Chrome
+2017-05-31 11:14:01 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:14:06 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:14:08 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar
+2017-05-31 11:14:13 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:14:13 [main]-[INFO] Not found element//input[@class='menu_item_334']
+2017-05-31 11:14:13 [main]-[INFO] Not found element//input[@class='menu_item_334']
+2017-05-31 11:14:14 [main]-[INFO] Not found element//input[@class='menu_item_334']
+2017-05-31 11:14:14 [main]-[INFO] Not found element//input[@class='menu_item_334']
+2017-05-31 11:14:15 [main]-[INFO] Not found element//input[@class='menu_item_334']
+2017-05-31 11:14:17 [main]-[INFO] Not found element//input[@class='menu_item_334']
+2017-05-31 11:14:18 [main]-[ERROR] Failed to find element //input[@class='menu_item_334'] >> capture screenshot at screenshot/20170531-111417.png
+2017-05-31 11:14:27 [main]-[INFO] Using Chrome
+2017-05-31 11:14:27 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:14:32 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:14:34 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar
+2017-05-31 11:14:39 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:14:42 [main]-[INFO] Not found element//input[@class='menu_item_334']
+2017-05-31 11:14:44 [main]-[ERROR] Failed to find element //input[@class='menu_item_334'] >> capture screenshot at screenshot/20170531-111443.png
+2017-05-31 11:15:59 [main]-[INFO] Using Chrome
+2017-05-31 11:15:59 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:16:04 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:16:07 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar
+2017-05-31 11:16:12 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:16:12 [main]-[INFO] Not found element//input[@class='img_out_focus']
+2017-05-31 11:16:13 [main]-[INFO] Not found element//input[@class='img_out_focus']
+2017-05-31 11:16:13 [main]-[INFO] Not found element//input[@class='img_out_focus']
+2017-05-31 11:16:14 [main]-[INFO] Not found element//input[@class='img_out_focus']
+2017-05-31 11:16:14 [main]-[INFO] Not found element//input[@class='img_out_focus']
+2017-05-31 11:16:15 [main]-[INFO] Not found element//input[@class='img_out_focus']
+2017-05-31 11:16:16 [main]-[ERROR] Failed to find element //input[@class='img_out_focus'] >> capture screenshot at screenshot/20170531-111615.png
+2017-05-31 11:16:39 [main]-[INFO] Using Chrome
+2017-05-31 11:16:39 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:16:44 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:16:46 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar
+2017-05-31 11:16:51 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:16:56 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:16:56 [main]-[INFO] Not found element//input[@class='img_out_focus']
+2017-05-31 11:16:57 [main]-[INFO] Not found element//input[@class='img_out_focus']
+2017-05-31 11:16:57 [main]-[INFO] Not found element//input[@class='img_out_focus']
+2017-05-31 11:16:58 [main]-[INFO] Not found element//input[@class='img_out_focus']
+2017-05-31 11:16:58 [main]-[INFO] Not found element//input[@class='img_out_focus']
+2017-05-31 11:16:59 [main]-[INFO] Not found element//input[@class='img_out_focus']
+2017-05-31 11:17:00 [main]-[ERROR] Failed to find element //input[@class='img_out_focus'] >> capture screenshot at screenshot/20170531-111659.png
+2017-05-31 11:17:44 [main]-[INFO] Using Chrome
+2017-05-31 11:17:44 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:17:49 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:17:51 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar
+2017-05-31 11:17:56 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:18:01 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:18:01 [main]-[INFO] Not found element//span[@class='img_out_focus']
+2017-05-31 11:18:01 [main]-[INFO] Not found element//span[@class='img_out_focus']
+2017-05-31 11:18:02 [main]-[INFO] Not found element//span[@class='img_out_focus']
+2017-05-31 11:18:02 [main]-[INFO] Not found element//span[@class='img_out_focus']
+2017-05-31 11:18:03 [main]-[INFO] Not found element//span[@class='img_out_focus']
+2017-05-31 11:18:03 [main]-[INFO] Not found element//span[@class='img_out_focus']
+2017-05-31 11:18:05 [main]-[ERROR] Failed to find element //span[@class='img_out_focus'] >> capture screenshot at screenshot/20170531-111804.png
+2017-05-31 11:18:53 [main]-[INFO] Using Chrome
+2017-05-31 11:18:53 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:18:58 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:19:00 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar
+2017-05-31 11:19:05 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:19:10 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:19:10 [main]-[INFO] Not found element//span[@class='nick red']
+2017-05-31 11:19:11 [main]-[INFO] Not found element//span[@class='nick red']
+2017-05-31 11:19:11 [main]-[INFO] Not found element//span[@class='nick red']
+2017-05-31 11:19:12 [main]-[INFO] Not found element//span[@class='nick red']
+2017-05-31 11:19:12 [main]-[INFO] Not found element//span[@class='nick red']
+2017-05-31 11:19:13 [main]-[INFO] Not found element//span[@class='nick red']
+2017-05-31 11:19:14 [main]-[ERROR] Failed to find element //span[@class='nick red'] >> capture screenshot at screenshot/20170531-111913.png
+2017-05-31 11:23:01 [main]-[INFO] Using Chrome
+2017-05-31 11:23:01 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:23:06 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:23:12 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar
+2017-05-31 11:23:17 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:23:22 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:23:22 [main]-[INFO] Not found element//span[@id='img_out_931986773']
+2017-05-31 11:23:22 [main]-[INFO] Not found element//span[@id='img_out_931986773']
+2017-05-31 11:23:23 [main]-[INFO] Not found element//span[@id='img_out_931986773']
+2017-05-31 11:23:23 [main]-[INFO] Not found element//span[@id='img_out_931986773']
+2017-05-31 11:23:24 [main]-[INFO] Not found element//span[@id='img_out_931986773']
+2017-05-31 11:23:24 [main]-[INFO] Not found element//span[@id='img_out_931986773']
+2017-05-31 11:23:26 [main]-[ERROR] Failed to find element //span[@id='img_out_931986773'] >> capture screenshot at screenshot/20170531-112325.png
+2017-05-31 11:28:07 [main]-[INFO] Using Chrome
+2017-05-31 11:28:08 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:28:17 [main]-[INFO] Using Chrome
+2017-05-31 11:28:18 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:28:23 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:28:25 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar
+2017-05-31 11:28:30 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:28:35 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:28:35 [main]-[INFO] Not found element//span[@class='face']
+2017-05-31 11:28:36 [main]-[INFO] Not found element//span[@class='face']
+2017-05-31 11:28:36 [main]-[INFO] Not found element//span[@class='face']
+2017-05-31 11:28:37 [main]-[INFO] Not found element//span[@class='face']
+2017-05-31 11:28:37 [main]-[INFO] Not found element//span[@class='face']
+2017-05-31 11:28:38 [main]-[INFO] Not found element//span[@class='face']
+2017-05-31 11:28:39 [main]-[ERROR] Failed to find element //span[@class='face'] >> capture screenshot at screenshot/20170531-112838.png
+2017-05-31 11:29:48 [main]-[INFO] Using Chrome
+2017-05-31 11:29:48 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:29:53 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:29:55 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar
+2017-05-31 11:30:00 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:30:05 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:30:05 [main]-[INFO] Not found element//a[@class='face']
+2017-05-31 11:30:06 [main]-[INFO] Not found element//a[@class='face']
+2017-05-31 11:30:06 [main]-[INFO] Not found element//a[@class='face']
+2017-05-31 11:30:07 [main]-[INFO] Not found element//a[@class='face']
+2017-05-31 11:30:07 [main]-[INFO] Not found element//a[@class='face']
+2017-05-31 11:30:08 [main]-[INFO] Not found element//a[@class='face']
+2017-05-31 11:30:09 [main]-[ERROR] Failed to find element //a[@class='face'] >> capture screenshot at screenshot/20170531-113008.png
+2017-05-31 11:32:06 [main]-[INFO] Using Chrome
+2017-05-31 11:32:06 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:32:11 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:32:13 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar
+2017-05-31 11:32:18 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:32:23 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:32:23 [main]-[INFO] Not found element//input[@class='face']
+2017-05-31 11:32:23 [main]-[INFO] Not found element//input[@class='face']
+2017-05-31 11:32:24 [main]-[INFO] Not found element//input[@class='face']
+2017-05-31 11:32:24 [main]-[INFO] Not found element//input[@class='face']
+2017-05-31 11:32:25 [main]-[INFO] Not found element//input[@class='face']
+2017-05-31 11:32:25 [main]-[INFO] Not found element//input[@class='face']
+2017-05-31 11:32:27 [main]-[ERROR] Failed to find element //input[@class='face'] >> capture screenshot at screenshot/20170531-113226.png
+2017-05-31 11:33:52 [main]-[INFO] Using Chrome
+2017-05-31 11:33:52 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:33:57 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:33:59 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar
+2017-05-31 11:34:04 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:34:09 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:34:09 [main]-[INFO] Not found element//input[@id='switcher_plogin']
+2017-05-31 11:34:09 [main]-[INFO] Not found element//input[@id='switcher_plogin']
+2017-05-31 11:34:10 [main]-[INFO] Not found element//input[@id='switcher_plogin']
+2017-05-31 11:34:10 [main]-[INFO] Not found element//input[@id='switcher_plogin']
+2017-05-31 11:34:11 [main]-[INFO] Not found element//input[@id='switcher_plogin']
+2017-05-31 11:34:11 [main]-[INFO] Not found element//input[@id='switcher_plogin']
+2017-05-31 11:34:13 [main]-[ERROR] Failed to find element //input[@id='switcher_plogin'] >> capture screenshot at screenshot/20170531-113412.png
+2017-05-31 11:44:07 [main]-[INFO] Using Chrome
+2017-05-31 11:44:08 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:44:13 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:44:15 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar&_t_=0.43886932702406534
+2017-05-31 11:44:20 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:44:25 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:44:25 [main]-[INFO] Not found element//input[@id='face']
+2017-05-31 11:44:25 [main]-[INFO] Not found element//input[@id='face']
+2017-05-31 11:44:26 [main]-[INFO] Not found element//input[@id='face']
+2017-05-31 11:44:26 [main]-[INFO] Not found element//input[@id='face']
+2017-05-31 11:44:27 [main]-[INFO] Not found element//input[@id='face']
+2017-05-31 11:44:27 [main]-[INFO] Not found element//input[@id='face']
+2017-05-31 11:44:28 [main]-[ERROR] Failed to find element //input[@id='face'] >> capture screenshot at screenshot/20170531-114428.png
+2017-05-31 11:45:35 [main]-[INFO] Using Chrome
+2017-05-31 11:45:35 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:45:40 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:45:42 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar&_t_=0.43886932702406534
+2017-05-31 11:45:47 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:45:52 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:45:52 [main]-[INFO] Not found element//li[@class='menu_item_334']
+2017-05-31 11:45:52 [main]-[INFO] Not found element//li[@class='menu_item_334']
+2017-05-31 11:45:53 [main]-[INFO] Not found element//li[@class='menu_item_334']
+2017-05-31 11:45:53 [main]-[INFO] Not found element//li[@class='menu_item_334']
+2017-05-31 11:45:54 [main]-[INFO] Not found element//li[@class='menu_item_334']
+2017-05-31 11:45:54 [main]-[INFO] Not found element//li[@class='menu_item_334']
+2017-05-31 11:45:55 [main]-[ERROR] Failed to find element //li[@class='menu_item_334'] >> capture screenshot at screenshot/20170531-114555.png
+2017-05-31 11:46:18 [main]-[INFO] Using Chrome
+2017-05-31 11:46:18 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:46:23 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:46:25 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar&_t_=0.43886932702406534
+2017-05-31 11:46:30 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:46:35 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:46:35 [main]-[INFO] Not found element//div[@class='menu_item_334']
+2017-05-31 11:46:36 [main]-[INFO] Not found element//div[@class='menu_item_334']
+2017-05-31 11:46:36 [main]-[INFO] Not found element//div[@class='menu_item_334']
+2017-05-31 11:46:37 [main]-[INFO] Not found element//div[@class='menu_item_334']
+2017-05-31 11:46:37 [main]-[INFO] Not found element//div[@class='menu_item_334']
+2017-05-31 11:46:38 [main]-[INFO] Not found element//div[@class='menu_item_334']
+2017-05-31 11:46:39 [main]-[ERROR] Failed to find element //div[@class='menu_item_334'] >> capture screenshot at screenshot/20170531-114639.png
+2017-05-31 11:51:32 [main]-[INFO] Using Chrome
+2017-05-31 11:51:33 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:51:38 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:51:41 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar&_t_=0.43886932702406534
+2017-05-31 11:51:46 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:51:51 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:51:51 [main]-[INFO] Not found element//div[@class='menu_item_334']
+2017-05-31 11:51:52 [main]-[INFO] Not found element//div[@class='menu_item_334']
+2017-05-31 11:51:53 [main]-[INFO] Not found element//div[@class='menu_item_334']
+2017-05-31 11:51:53 [main]-[INFO] Not found element//div[@class='menu_item_334']
+2017-05-31 11:51:54 [main]-[INFO] Not found element//div[@class='menu_item_334']
+2017-05-31 11:51:54 [main]-[INFO] Not found element//div[@class='menu_item_334']
+2017-05-31 11:51:55 [main]-[ERROR] Failed to find element //div[@class='menu_item_334'] >> capture screenshot at screenshot/20170531-115155.png
+2017-05-31 11:52:28 [main]-[INFO] Using Chrome
+2017-05-31 11:52:28 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:52:33 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:52:35 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar&_t_=0.43886932702406534
+2017-05-31 11:52:40 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:52:45 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:52:45 [main]-[INFO] Not found element//iframe[@id='veditor1_Iframe']
+2017-05-31 11:52:46 [main]-[INFO] Not found element//iframe[@id='veditor1_Iframe']
+2017-05-31 11:52:46 [main]-[INFO] Not found element//iframe[@id='veditor1_Iframe']
+2017-05-31 11:52:47 [main]-[INFO] Not found element//iframe[@id='veditor1_Iframe']
+2017-05-31 11:52:48 [main]-[INFO] Not found element//iframe[@id='veditor1_Iframe']
+2017-05-31 11:52:48 [main]-[INFO] Not found element//iframe[@id='veditor1_Iframe']
+2017-05-31 11:52:50 [main]-[ERROR] Failed to find element //iframe[@id='veditor1_Iframe'] >> capture screenshot at screenshot/20170531-115249.png
+2017-05-31 11:55:17 [main]-[INFO] Using Chrome
+2017-05-31 11:55:17 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:55:22 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:55:26 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar&_t_=0.43886932702406534
+2017-05-31 11:55:31 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:55:36 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:55:36 [main]-[INFO] Not found element//a[@为什么呀='menu_item_334']
+2017-05-31 11:55:36 [main]-[INFO] Not found element//a[@为什么呀='menu_item_334']
+2017-05-31 11:55:37 [main]-[INFO] Not found element//a[@为什么呀='menu_item_334']
+2017-05-31 11:55:37 [main]-[INFO] Not found element//a[@为什么呀='menu_item_334']
+2017-05-31 11:55:38 [main]-[INFO] Not found element//a[@为什么呀='menu_item_334']
+2017-05-31 11:55:39 [main]-[INFO] Not found element//a[@为什么呀='menu_item_334']
+2017-05-31 11:55:39 [main]-[ERROR] Failed to find element //a[@为什么呀='menu_item_334'] >> capture screenshot at screenshot/20170531-115539.png
+2017-05-31 11:56:32 [main]-[INFO] Using Chrome
+2017-05-31 11:56:32 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:56:37 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:56:39 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar&_t_=0.43886932702406534
+2017-05-31 11:56:44 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:56:49 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:56:49 [main]-[INFO] Not found element//title[@='为什么呀']
+2017-05-31 11:56:50 [main]-[INFO] Not found element//title[@='为什么呀']
+2017-05-31 11:56:50 [main]-[INFO] Not found element//title[@='为什么呀']
+2017-05-31 11:56:51 [main]-[INFO] Not found element//title[@='为什么呀']
+2017-05-31 11:56:51 [main]-[INFO] Not found element//title[@='为什么呀']
+2017-05-31 11:56:52 [main]-[INFO] Not found element//title[@='为什么呀']
+2017-05-31 11:56:53 [main]-[ERROR] Failed to find element //title[@='为什么呀'] >> capture screenshot at screenshot/20170531-115652.png
+2017-05-31 11:57:14 [main]-[INFO] Using Chrome
+2017-05-31 11:57:14 [main]-[INFO] Started BrowserEmulator
+2017-05-31 11:57:19 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:57:23 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar&_t_=0.43886932702406534
+2017-05-31 11:57:28 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:57:33 [main]-[INFO] Pause 5000 ms
+2017-05-31 11:57:33 [main]-[INFO] Not found element//a[@title='为什么呀']
+2017-05-31 11:57:33 [main]-[INFO] Not found element//a[@title='为什么呀']
+2017-05-31 11:57:34 [main]-[INFO] Not found element//a[@title='为什么呀']
+2017-05-31 11:57:34 [main]-[INFO] Not found element//a[@title='为什么呀']
+2017-05-31 11:57:35 [main]-[INFO] Not found element//a[@title='为什么呀']
+2017-05-31 11:57:35 [main]-[INFO] Not found element//a[@title='为什么呀']
+2017-05-31 11:57:36 [main]-[ERROR] Failed to find element //a[@title='为什么呀'] >> capture screenshot at screenshot/20170531-115736.png
+2017-05-31 14:05:27 [main]-[INFO] Using Chrome
+2017-05-31 14:05:27 [main]-[INFO] Started BrowserEmulator
+2017-05-31 14:05:32 [main]-[INFO] Pause 5000 ms
+2017-05-31 14:05:34 [main]-[INFO] Opened url https://user.qzone.qq.com/1272818727?ADUIN=931986773&ADSESSION=1496193948&ADTAG=CLIENT.QQ.5521_FriendInfo_PersonalInfo.0&ADPUBNO=26675&ptlang=2052&source=namecardstar&_t_=0.43886932702406534
+2017-05-31 14:05:39 [main]-[INFO] Pause 5000 ms
+2017-05-31 14:05:44 [main]-[INFO] Pause 5000 ms
+2017-05-31 14:05:44 [main]-[INFO] Not found element//a[@title='为什么呀']
+2017-05-31 14:05:45 [main]-[INFO] Not found element//a[@title='为什么呀']
+2017-05-31 14:05:45 [main]-[INFO] Not found element//a[@title='为什么呀']
+2017-05-31 14:05:46 [main]-[INFO] Not found element//a[@title='为什么呀']
+2017-05-31 14:05:47 [main]-[INFO] Not found element//a[@title='为什么呀']
+2017-05-31 14:05:47 [main]-[INFO] Not found element//a[@title='为什么呀']
+2017-05-31 14:05:48 [main]-[ERROR] Failed to find element //a[@title='为什么呀'] >> capture screenshot at screenshot/20170531-140548.png
+2017-05-31 16:54:46 [main]-[INFO] Using Chrome
+2017-05-31 16:54:46 [main]-[INFO] Started BrowserEmulator
+2017-05-31 16:54:51 [main]-[INFO] Pause 5000 ms
+2017-05-31 16:54:52 [main]-[INFO] Opened url https://www.baidu.com/
+2017-05-31 16:54:57 [main]-[INFO] Pause 5000 ms
+2017-05-31 16:55:02 [main]-[INFO] Pause 5000 ms
+2017-05-31 16:55:02 [main]-[INFO] Found element //input[@name='wd']
+2017-05-31 16:55:02 [main]-[INFO] Found desired element //input[@name='wd']
+2017-05-31 16:55:03 [main]-[INFO] Type 亲爱的 at //input[@name='wd']
+2017-05-31 16:55:08 [main]-[INFO] Pause 5000 ms
+2017-05-31 16:55:08 [main]-[INFO] Not found element//input[@class='bg s_btn btnhover']
+2017-05-31 16:55:08 [main]-[INFO] Not found element//input[@class='bg s_btn btnhover']
+2017-05-31 16:55:09 [main]-[INFO] Not found element//input[@class='bg s_btn btnhover']
+2017-05-31 16:55:09 [main]-[INFO] Not found element//input[@class='bg s_btn btnhover']
+2017-05-31 16:55:10 [main]-[INFO] Not found element//input[@class='bg s_btn btnhover']
+2017-05-31 16:55:10 [main]-[INFO] Not found element//input[@class='bg s_btn btnhover']
+2017-05-31 16:55:11 [main]-[ERROR] Failed to find element //input[@class='bg s_btn btnhover'] >> capture screenshot at screenshot/20170531-165511.png
+2017-05-31 16:55:39 [main]-[INFO] Using Chrome
+2017-05-31 16:55:39 [main]-[INFO] Started BrowserEmulator
+2017-05-31 16:55:44 [main]-[INFO] Pause 5000 ms
+2017-05-31 16:55:45 [main]-[INFO] Opened url https://www.baidu.com/
+2017-05-31 16:55:50 [main]-[INFO] Pause 5000 ms
+2017-05-31 16:55:55 [main]-[INFO] Pause 5000 ms
+2017-05-31 16:55:55 [main]-[INFO] Found element //input[@name='wd']
+2017-05-31 16:55:55 [main]-[INFO] Found desired element //input[@name='wd']
+2017-05-31 16:55:55 [main]-[INFO] Type 亲爱的 at //input[@name='wd']
+2017-05-31 16:56:00 [main]-[INFO] Pause 5000 ms
+2017-05-31 16:56:00 [main]-[INFO] Found element //input[@class='bg s_btn']
+2017-05-31 16:56:00 [main]-[INFO] Found desired element //input[@class='bg s_btn']
+2017-05-31 16:56:00 [main]-[INFO] Clicked //input[@class='bg s_btn']
+2017-05-31 16:56:05 [main]-[INFO] Pause 5000 ms
+2017-05-31 16:56:07 [main]-[INFO] Quitted BrowserEmulator
